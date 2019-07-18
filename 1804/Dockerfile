@@ -1,6 +1,6 @@
 FROM phusion/baseimage:0.11
-MAINTAINER Matthew Rayner <hello@rayner.io>
-ENV REFRESHED_AT 2019-06-11
+MAINTAINER Hbsion Hoo <hbsion@qq.com>
+ENV REFRESHED_AT 2019-07-19
 
 # based on dgraziotin/lamp
 # MAINTAINER Daniel Graziotin <daniel@ineed.coffee>
